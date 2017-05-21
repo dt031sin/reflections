@@ -2,32 +2,32 @@
 
 Ans. It creates an empty .git and initializes the repository. To initialize the repository and keep track of our files via git.
 
-
-
 How is the staging area different from the working directory and the repository?
  What value do you think it offers?
 
 Ans. Staging area is the area where files which need to be committed are stored, while working directory stores all the files of the program we are working on and repository stores the commits that are made.
      Statging area provides more control on which files from the working directory we need to make the commit.  
 
-
-
-How can you use the staging area to make sure you have one commit per logical
+How can you use the staging area to make sure you have one commit per logical 
 change?
 
-
+Ans. Staging area helps make changes to the files we are working on currently and make commits to that only and check our logic before commiting the change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-
+Ans. When i need to make changes either experimental or new and keep the original version intact for further improvements. Branches help by creating new branches to the master commit tree where i can jump to the main branch anytime.
 
 How do the diagrams help you visualize the branch structure?
 
-What is the result of merging two branches together? 
+Ans. Diagrams give a clear structure of the whole git tree.
 
-Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in
+ the diagram the way we do?
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
+Ans. Merging two branches clubs together their features and bugs fixes, etc. We represent it in the diagram to get a clear picture of the commits that have been merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
 manually?
+
+Ans. Auto merging hepls to merge together very two very long codes which do not interfere which each other pretty easily but it cannot merge them if there is a change in the code at the same location of code.
