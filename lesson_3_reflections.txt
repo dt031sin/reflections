@@ -9,3 +9,7 @@ Ans. Manual pull gives more control and it does not make changes automatically w
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Ans. Forks : Github (from an account) to github (to your own), Clone: any git repository to anywhere except fork, branches: new section of main code to work on a new feature, etc.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Ans. So we can keep track of all the local changes made since.
