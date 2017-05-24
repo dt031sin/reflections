@@ -17,3 +17,7 @@ Ans. So we can keep track of all the local changes made since.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Ans. Collaborating without github will make changes to the code by asking the others every time a need to make the change and every single time others need to update their changes too.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Ans. When i need to test something out. Master: easy & simple, Separate branch: more control over what changes to apply or decline.
